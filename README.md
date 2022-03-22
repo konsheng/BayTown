@@ -2,6 +2,11 @@
 
 Challenging and difficult servers 充满挑战与困难的服务器
 
+<a href="https://github.com/konsheng/BayTown/issues/">
+<img src="https://img.shields.io/bitbucket/issues/Konsheng/BayTown?label=Issue%20%E9%97%AE%E9%A2%98&style=flat-square" /></a>
+<a href="https://github.com/konsheng/BayTown/actions/">
+<img src="https://img.shields.io/appveyor/build/konsheng/BayTown?label=Build%20%E6%9E%84%E5%BB%BA&style=flat-square" /></a>
+
 ## ✅ Details 详情信息
 
 * 服务器版本 Minecraft 1.18.2
